@@ -3,5 +3,4 @@ public class Caracteres {
         char caracter = '\u0040';
         System.out.println("caracter = " + caracter);
     }
-
 }
